@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50px"> Hey there, I'm [Your Name]!
+### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50px"> Hey there, I'm Areesha Sattar!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&width=600&lines=Creative+Frontend+Developer;Next.js+%7C+React+%7C+Tailwind+CSS+%7C+TypeScript;Passionate+about+beautiful+designs!+%f0%9f%8c%9f)
 
