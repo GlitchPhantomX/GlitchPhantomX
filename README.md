@@ -104,7 +104,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlitchPhantomX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
