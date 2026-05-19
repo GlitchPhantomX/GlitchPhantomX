@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://portfolio-two-hazel-66.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-areeshasattar.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="mailto:areesha21314@gmail.com"><img src="https://img.shields.io/badge/Email-areesha21314@gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/areesha-sattar-giaic-leader-student-14b48832b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://www.linkedin.com/in/areesha-sattar-giaic-leader-student-14b48832b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   <a href="https://github.com/GlitchPhantomX"><img src="https://img.shields.io/badge/GitHub-GlitchPhantomX-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/Areesha-sites"><img src="https://img.shields.io/badge/GitHub-Areesha--sites-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
