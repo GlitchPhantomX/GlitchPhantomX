@@ -106,10 +106,10 @@
 </p>
 
 ## 🐍 GitHub Contribution Snake
+
 <p align="center">
   <img src="https://github.com/GlitchPhantomX/GlitchPhantomX/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 
 ---
 
@@ -125,7 +125,7 @@
 I'm open to creative collaborations, AI-powered projects, and full-stack web development work. Whether it's building scalable applications, designing intelligent AI agents, or crafting beautiful UIs — let's build something extraordinary together.
 
 <p align="center">
-  <a href="https://www.areeshasattar.com"><img src="https://img.shields.io/badge/🌐 Website-areeshasattar.com-8B5CF6?style=for-the-badge"/></a>
+  <a href="https://portfolio-two-hazel-66.vercel.app/"><img src="https://img.shields.io/badge/🌐 Website-areeshasattar.com-8B5CF6?style=for-the-badge"/></a>
   <a href="mailto:areesha21314@gmail.com"><img src="https://img.shields.io/badge/📧 Email-Let's Talk-EC4899?style=for-the-badge"/></a>
 </p>
 
