@@ -89,19 +89,6 @@
 ```
 
 ---
-
-## 💎 Featured Projects
-
-### 🌱 Streamlit Growth Mindset Challenge
-> **Tech:** Python · Streamlit  
-> 🌐 [Live Demo](https://growth-mindset-app-wwyyeeemryzu3bh7ztr9ce.streamlit.app/) | 📦 [GitHub](https://github.com/AreeshaRepo/Growth-mindset-app.git)
-
-### 🌐 Integrated Portfolio Site
-> **Tech:** React.js · Next.js · TypeScript · Tailwind CSS  
-> 🌐 [Live Demo](https://portfolio-two-hazel-66.vercel.app/) | 📦 [GitHub](https://github.com/GlitchPhantomX/portfolio.git)
-
----
-
 ## 🎓 Education & Certifications
 
 | Year | Qualification | Institution |
